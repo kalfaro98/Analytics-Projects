@@ -1,4 +1,4 @@
-# Bike-dashboard
+# Projects
 Below I will explain the steps I took to create the bike sales dashboard
 
 Step 1: From the raw excel data set I had, I first cleaned up the data by removing duplicates, making sure capitalization was the same throughout, removed any additional spacing in words using the "Trim" function. 
